@@ -30,3 +30,8 @@
     DELETE /api/categories/{id}/ → Eliminar categoría.
 
     Recomendación: Utiliza serializers y viewsets para optimizar el código y reducir la repetición. Considera también la implementación de permisos personalizados para controlar el acceso a cada endpoint.
+
+# Attachments
+[Curso Django](https://youtu.be/u2Ms34GE14U?si=EltnWCNB5oINYcrf)
+
+[Que es una API](https://youtu.be/u2Ms34GE14U?si=EltnWCNB5oINYcrf)
